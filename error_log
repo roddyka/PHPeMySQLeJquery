@@ -1,0 +1,44 @@
+[28-Dec-2015 21:40:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/antunes/public_html/kungfu/conexao.php on line 2
+[28-Dec-2015 21:40:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/antunes/public_html/kungfu/verificar-login.php on line 10
+[28-Dec-2015 21:40:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/antunes/public_html/kungfu/verificar-login.php on line 12
+[28-Dec-2015 21:40:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/conexao.php:2) in /home/antunes/public_html/kungfu/verificar-login.php on line 28
+[28-Dec-2015 21:48:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/antunes/public_html/kungfu/conexao.php on line 2
+[28-Dec-2015 21:48:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/antunes/public_html/kungfu/verificar-login.php on line 10
+[28-Dec-2015 21:48:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/antunes/public_html/kungfu/verificar-login.php on line 12
+[28-Dec-2015 21:48:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/conexao.php:2) in /home/antunes/public_html/kungfu/verificar-login.php on line 28
+[28-Dec-2015 21:48:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/antunes/public_html/kungfu/conexao.php on line 2
+[28-Dec-2015 21:48:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/antunes/public_html/kungfu/verificar-login.php on line 10
+[28-Dec-2015 21:48:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/antunes/public_html/kungfu/verificar-login.php on line 12
+[28-Dec-2015 21:48:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/conexao.php:2) in /home/antunes/public_html/kungfu/verificar-login.php on line 28
+[15-Jan-2016 15:28:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/antunes/public_html/kungfu/conexao.php on line 2
+[15-Jan-2016 15:28:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/antunes/public_html/kungfu/verificar-login.php on line 10
+[15-Jan-2016 15:28:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/antunes/public_html/kungfu/verificar-login.php on line 12
+[15-Jan-2016 15:28:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/conexao.php:2) in /home/antunes/public_html/kungfu/verificar-login.php on line 28
+[27-Jan-2016 10:38:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/antunes/public_html/kungfu/conexao.php on line 2
+[27-Jan-2016 10:38:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/antunes/public_html/kungfu/verificar-login.php on line 10
+[27-Jan-2016 10:38:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/antunes/public_html/kungfu/verificar-login.php on line 12
+[27-Jan-2016 10:38:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/conexao.php:2) in /home/antunes/public_html/kungfu/verificar-login.php on line 28
+[27-Jan-2016 10:40:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/antunes/public_html/kungfu/verificar-login.php on line 12
+[27-Jan-2016 10:40:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/verificar-login.php:12) in /home/antunes/public_html/kungfu/verificar-login.php on line 28
+[27-Jan-2016 10:42:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/antunes/public_html/kungfu/verificar-login.php on line 10
+[27-Jan-2016 10:42:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/antunes/public_html/kungfu/verificar-login.php on line 12
+[27-Jan-2016 10:42:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/verificar-login.php:10) in /home/antunes/public_html/kungfu/verificar-login.php on line 28
+[27-Jan-2016 10:45:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/antunes/public_html/kungfu/conexao.php on line 2
+[27-Jan-2016 10:45:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/antunes/public_html/kungfu/verificar-login.php on line 10
+[27-Jan-2016 10:45:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/antunes/public_html/kungfu/verificar-login.php on line 12
+[27-Jan-2016 10:45:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/conexao.php:2) in /home/antunes/public_html/kungfu/verificar-login.php on line 28
+[27-Jan-2016 10:49:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/antunes/public_html/kungfu/verificar-login.php on line 10
+[27-Jan-2016 10:49:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/antunes/public_html/kungfu/verificar-login.php on line 12
+[27-Jan-2016 10:49:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/verificar-login.php:10) in /home/antunes/public_html/kungfu/verificar-login.php on line 28
+[27-Jan-2016 10:51:20 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/antunes/public_html/kungfu/verificar-login.php on line 9
+[27-Jan-2016 10:53:43 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/antunes/public_html/kungfu/verificar-login.php on line 9
+[27-Jan-2016 10:55:12 UTC] PHP Warning:  mysqli_get_host_info() expects parameter 1 to be mysqli, null given in /home/antunes/public_html/kungfu/conexao.php on line 11
+[27-Jan-2016 10:55:12 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/antunes/public_html/kungfu/verificar-login.php on line 9
+[27-Jan-2016 10:56:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/conexao.php:10) in /home/antunes/public_html/kungfu/verificar-login.php on line 21
+[27-Jan-2016 10:57:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/verificar-login.php:13) in /home/antunes/public_html/kungfu/verificar-login.php on line 21
+[23-Apr-2016 15:58:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/verificar-login.php:24) in /home/antunes/public_html/kungfu/verificar-login.php on line 27
+[23-Apr-2016 15:58:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/verificar-login.php:24) in /home/antunes/public_html/kungfu/verificar-login.php on line 27
+[23-Apr-2016 15:58:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/verificar-login.php:24) in /home/antunes/public_html/kungfu/verificar-login.php on line 27
+[23-Apr-2016 15:58:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/verificar-login.php:24) in /home/antunes/public_html/kungfu/verificar-login.php on line 27
+[23-Apr-2016 15:59:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/verificar-login.php:24) in /home/antunes/public_html/kungfu/verificar-login.php on line 27
+[23-Apr-2016 15:59:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/antunes/public_html/kungfu/verificar-login.php:24) in /home/antunes/public_html/kungfu/verificar-login.php on line 27
